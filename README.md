@@ -10,11 +10,11 @@ SSAFY 13기 14반 OS 스터디
 
 **스터디원**: 
 
-+ 예진(@rocher71)
-+ 준범(@mjbaa)
-+ 상민(@dldltkdals)
-+ 가배(@jeongabae)
-+ 정규
++ 예진[@rocher71](https://github.com/rocher71)
++ 준범[@mjbaa](https://github.com/mjbaa)
++ 상민[@dldltkdals](https://github.com/dldltkdals)
++ 가배[@jeongabae](https://github.com/jeongabae)
++ 정규[@kimregular](https://github.com/kimregular)
 
 **스터디 시간**: 
 
