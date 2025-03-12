@@ -1,5 +1,6 @@
 # os-study
 SSAFY 13기 14반 OS 스터디
+
 [면접 대비 질문 정리](https://docs.google.com/document/d/1mh9lFMP0VbSISb6kl-9wk4Ocgs6rhl5SRHo5FbkyMvQ/edit?usp=sharing)
 
 
